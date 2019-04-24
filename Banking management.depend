@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1512436047 source:c:\users\badiuzzaman\desktop\banking_management\delete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"struct.h"
+	"search.h"
+	"title.h"
+
+1512148061 c:\users\badiuzzaman\desktop\banking_management\struct.h
+
+1512098400 c:\users\badiuzzaman\desktop\banking_management\search.h
+
+1512307222 c:\users\badiuzzaman\desktop\banking_management\title.h
+
+1513056384 source:c:\users\badiuzzaman\desktop\banking_management\main.c
+	"main.h"
+
+1512881991 c:\users\badiuzzaman\desktop\banking_management\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"new.h"
+	"view.h"
+	"search.h"
+	"delete.h"
+	"update.h"
+	"viewhistory.h"
+	"title.h"
+
+1511126294 c:\users\badiuzzaman\desktop\banking_management\new.h
+
+1511167120 c:\users\badiuzzaman\desktop\banking_management\view.h
+
+1511210108 c:\users\badiuzzaman\desktop\banking_management\delete.h
+
+1511216556 c:\users\badiuzzaman\desktop\banking_management\update.h
+
+1512100686 c:\users\badiuzzaman\desktop\banking_management\viewhistory.h
+
+1512437680 source:c:\users\badiuzzaman\desktop\banking_management\new.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"struct.h"
+	"title.h"
+
+1512144851 source:c:\users\badiuzzaman\desktop\banking_management\search.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"struct.h"
+	"title.h"
+
+1512437642 source:c:\users\badiuzzaman\desktop\banking_management\update.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"struct.h"
+	"search.h"
+	"title.h"
+
+1512144851 source:c:\users\badiuzzaman\desktop\banking_management\view.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"struct.h"
+	"search.h"
+	"title.h"
+
+1512441614 source:c:\users\badiuzzaman\desktop\banking_management\viewhistory.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	"struct.h"
+	"title.h"
+	"search.h"
+

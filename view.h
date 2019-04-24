@@ -1,0 +1,1 @@
+void view(int indicator);
